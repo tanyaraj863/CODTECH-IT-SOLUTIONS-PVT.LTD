@@ -1,0 +1,4 @@
+Hello, my name is Java Programmer.
+This is a sample text file created in Java.
+File handling in Java is very useful.
+Have a great day, Java Programmer!
